@@ -1,0 +1,595 @@
+{
+	"document": {
+		"id": "0:0",
+		"name": "Document",
+		"type": "DOCUMENT",
+		"children": [{
+			"id": "0:1",
+			"name": "Page 1",
+			"type": "CANVAS",
+			"children": [{
+				"id": "2:2",
+				"name": "Frame 1",
+				"type": "FRAME",
+				"blendMode": "PASS_THROUGH",
+				"children": [{
+					"id": "2:3",
+					"name": "Sign up/text/large",
+					"type": "TEXT",
+					"blendMode": "PASS_THROUGH",
+					"absoluteBoundingBox": {
+						"x": -430,
+						"y": -349,
+						"width": 103,
+						"height": 36
+					},
+					"constraints": {
+						"vertical": "TOP",
+						"horizontal": "LEFT"
+					},
+					"fills": [{
+						"blendMode": "NORMAL",
+						"type": "SOLID",
+						"color": {
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						}
+					}],
+					"strokes": [],
+					"strokeWeight": 1,
+					"strokeAlign": "OUTSIDE",
+					"effects": [],
+					"characters": "Sign up",
+					"style": {
+						"fontFamily": "Roboto",
+						"fontPostScriptName": null,
+						"fontWeight": 400,
+						"textAutoResize": "WIDTH_AND_HEIGHT",
+						"fontSize": 31,
+						"textAlignHorizontal": "LEFT",
+						"textAlignVertical": "TOP",
+						"letterSpacing": 0,
+						"lineHeightPx": 36.328125,
+						"lineHeightPercent": 100,
+						"lineHeightUnit": "INTRINSIC_%"
+					},
+					"characterStyleOverrides": [],
+					"styleOverrideTable": {}
+				}, {
+					"id": "2:5",
+					"name": "Textbox / Normal",
+					"type": "FRAME",
+					"blendMode": "PASS_THROUGH",
+					"children": [{
+						"id": "2:6",
+						"name": "Username",
+						"type": "TEXT",
+						"blendMode": "PASS_THROUGH",
+						"absoluteBoundingBox": {
+							"x": -414,
+							"y": -200,
+							"width": 74,
+							"height": 19
+						},
+						"constraints": {
+							"vertical": "TOP",
+							"horizontal": "LEFT"
+						},
+						"fills": [{
+							"blendMode": "NORMAL",
+							"type": "SOLID",
+							"color": {
+								"r": 0.7686274647712708,
+								"g": 0.7686274647712708,
+								"b": 0.7686274647712708,
+								"a": 1
+							}
+						}],
+						"strokes": [],
+						"strokeWeight": 1,
+						"strokeAlign": "OUTSIDE",
+						"effects": [],
+						"characters": "Username",
+						"style": {
+							"fontFamily": "Roboto",
+							"fontPostScriptName": null,
+							"fontWeight": 400,
+							"textAutoResize": "WIDTH_AND_HEIGHT",
+							"fontSize": 16,
+							"textAlignHorizontal": "LEFT",
+							"textAlignVertical": "TOP",
+							"letterSpacing": 0.16,
+							"lineHeightPx": 18.75,
+							"lineHeightPercent": 100,
+							"lineHeightUnit": "INTRINSIC_%"
+						},
+						"characterStyleOverrides": [],
+						"styleOverrideTable": {}
+					}],
+					"absoluteBoundingBox": {
+						"x": -435,
+						"y": -216,
+						"width": 286,
+						"height": 53
+					},
+					"constraints": {
+						"vertical": "TOP",
+						"horizontal": "LEFT"
+					},
+					"clipsContent": true,
+					"background": [],
+					"fills": [],
+					"strokes": [{
+						"blendMode": "NORMAL",
+						"type": "SOLID",
+						"color": {
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						}
+					}],
+					"strokeWeight": 1,
+					"strokeAlign": "INSIDE",
+					"backgroundColor": {
+						"r": 0,
+						"g": 0,
+						"b": 0,
+						"a": 0
+					},
+					"effects": []
+				}, {
+					"id": "2:7",
+					"name": "Textbox / Normal",
+					"type": "FRAME",
+					"blendMode": "PASS_THROUGH",
+					"children": [{
+						"id": "2:8",
+						"name": "Password",
+						"type": "TEXT",
+						"blendMode": "PASS_THROUGH",
+						"absoluteBoundingBox": {
+							"x": -79,
+							"y": -200,
+							"width": 72,
+							"height": 38
+						},
+						"constraints": {
+							"vertical": "TOP",
+							"horizontal": "LEFT"
+						},
+						"fills": [{
+							"blendMode": "NORMAL",
+							"type": "SOLID",
+							"color": {
+								"r": 0.7686274647712708,
+								"g": 0.7686274647712708,
+								"b": 0.7686274647712708,
+								"a": 1
+							}
+						}],
+						"strokes": [],
+						"strokeWeight": 1,
+						"strokeAlign": "OUTSIDE",
+						"effects": [],
+						"characters": "Password\n",
+						"style": {
+							"fontFamily": "Roboto",
+							"fontPostScriptName": null,
+							"fontWeight": 400,
+							"textAutoResize": "WIDTH_AND_HEIGHT",
+							"fontSize": 16,
+							"textAlignHorizontal": "LEFT",
+							"textAlignVertical": "TOP",
+							"letterSpacing": 0.16,
+							"lineHeightPx": 18.75,
+							"lineHeightPercent": 100,
+							"lineHeightUnit": "INTRINSIC_%"
+						},
+						"characterStyleOverrides": [],
+						"styleOverrideTable": {}
+					}],
+					"absoluteBoundingBox": {
+						"x": -101,
+						"y": -216,
+						"width": 286,
+						"height": 53
+					},
+					"constraints": {
+						"vertical": "TOP",
+						"horizontal": "LEFT"
+					},
+					"clipsContent": true,
+					"background": [],
+					"fills": [],
+					"strokes": [{
+						"blendMode": "NORMAL",
+						"type": "SOLID",
+						"color": {
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						}
+					}],
+					"strokeWeight": 1,
+					"strokeAlign": "INSIDE",
+					"backgroundColor": {
+						"r": 0,
+						"g": 0,
+						"b": 0,
+						"a": 0
+					},
+					"effects": []
+				}, {
+					"id": "2:9",
+					"name": "Already a memeber? Sign in.",
+					"type": "TEXT",
+					"blendMode": "PASS_THROUGH",
+					"absoluteBoundingBox": {
+						"x": -432,
+						"y": -150,
+						"width": 139,
+						"height": 13
+					},
+					"constraints": {
+						"vertical": "TOP",
+						"horizontal": "LEFT"
+					},
+					"fills": [{
+						"blendMode": "NORMAL",
+						"type": "SOLID",
+						"color": {
+							"r": 0.3266667127609253,
+							"g": 0.4237334132194519,
+							"b": 0.9333333373069763,
+							"a": 1
+						}
+					}],
+					"strokes": [],
+					"strokeWeight": 1,
+					"strokeAlign": "OUTSIDE",
+					"effects": [],
+					"characters": "Already a memeber? Sign in.",
+					"style": {
+						"fontFamily": "Roboto",
+						"fontPostScriptName": "Roboto-Light",
+						"fontWeight": 300,
+						"textAutoResize": "WIDTH_AND_HEIGHT",
+						"textDecoration": "UNDERLINE",
+						"fontSize": 11,
+						"textAlignHorizontal": "LEFT",
+						"textAlignVertical": "TOP",
+						"letterSpacing": 0.11,
+						"lineHeightPx": 12.890625,
+						"lineHeightPercent": 100,
+						"lineHeightUnit": "INTRINSIC_%"
+					},
+					"characterStyleOverrides": [],
+					"styleOverrideTable": {}
+				}, {
+					"id": "2:29",
+					"name": "Button / Primary / normal / Submit",
+					"type": "FRAME",
+					"blendMode": "PASS_THROUGH",
+					"children": [{
+						"id": "2:32",
+						"name": "Submit",
+						"type": "TEXT",
+						"blendMode": "PASS_THROUGH",
+						"absoluteBoundingBox": {
+							"x": -420,
+							"y": -92,
+							"width": 134,
+							"height": 26
+						},
+						"constraints": {
+							"vertical": "TOP",
+							"horizontal": "LEFT"
+						},
+						"layoutAlign": "INHERIT",
+						"layoutGrow": 0,
+						"fills": [{
+							"blendMode": "NORMAL",
+							"type": "SOLID",
+							"color": {
+								"r": 1,
+								"g": 1,
+								"b": 1,
+								"a": 1
+							}
+						}],
+						"strokes": [],
+						"strokeWeight": 1,
+						"strokeAlign": "OUTSIDE",
+						"effects": [],
+						"characters": "Submit",
+						"style": {
+							"fontFamily": "Roboto",
+							"fontPostScriptName": "Roboto-Light",
+							"fontWeight": 300,
+							"fontSize": 19,
+							"textAlignHorizontal": "CENTER",
+							"textAlignVertical": "CENTER",
+							"letterSpacing": 0.19,
+							"lineHeightPx": 22.265625,
+							"lineHeightPercent": 100,
+							"lineHeightUnit": "INTRINSIC_%"
+						},
+						"characterStyleOverrides": [],
+						"styleOverrideTable": {}
+					}],
+					"absoluteBoundingBox": {
+						"x": -430,
+						"y": -102,
+						"width": 162,
+						"height": 46
+					},
+					"constraints": {
+						"vertical": "TOP",
+						"horizontal": "LEFT"
+					},
+					"clipsContent": true,
+					"background": [{
+						"blendMode": "NORMAL",
+						"type": "SOLID",
+						"color": {
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						}
+					}],
+					"fills": [{
+						"blendMode": "NORMAL",
+						"type": "SOLID",
+						"color": {
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						}
+					}],
+					"strokes": [],
+					"cornerRadius": 30,
+					"rectangleCornerRadii": [30, 30, 30, 30],
+					"strokeWeight": 1,
+					"strokeAlign": "INSIDE",
+					"backgroundColor": {
+						"r": 0,
+						"g": 0,
+						"b": 0,
+						"a": 1
+					},
+					"layoutMode": "HORIZONTAL",
+					"itemSpacing": 24,
+					"primaryAxisSizingMode": "FIXED",
+					"paddingLeft": 10,
+					"paddingRight": 10,
+					"paddingTop": 10,
+					"paddingBottom": 10,
+					"exportSettings": [{
+						"suffix": "",
+						"format": "PNG",
+						"constraint": {
+							"type": "SCALE",
+							"value": 1
+						}
+					}],
+					"effects": []
+				}, {
+					"id": "2:31",
+					"name": "Button / Primary / normal / Cancel",
+					"type": "FRAME",
+					"blendMode": "PASS_THROUGH",
+					"children": [{
+						"id": "2:30",
+						"name": "Cancel",
+						"type": "TEXT",
+						"blendMode": "PASS_THROUGH",
+						"absoluteBoundingBox": {
+							"x": -238,
+							"y": -92,
+							"width": 134,
+							"height": 26
+						},
+						"constraints": {
+							"vertical": "TOP",
+							"horizontal": "LEFT"
+						},
+						"layoutAlign": "INHERIT",
+						"layoutGrow": 0,
+						"fills": [{
+							"blendMode": "NORMAL",
+							"type": "SOLID",
+							"color": {
+								"r": 0,
+								"g": 0,
+								"b": 0,
+								"a": 1
+							}
+						}],
+						"strokes": [],
+						"strokeWeight": 1,
+						"strokeAlign": "OUTSIDE",
+						"effects": [],
+						"characters": "Cancel",
+						"style": {
+							"fontFamily": "Roboto",
+							"fontPostScriptName": "Roboto-Light",
+							"fontWeight": 300,
+							"fontSize": 19,
+							"textAlignHorizontal": "CENTER",
+							"textAlignVertical": "CENTER",
+							"letterSpacing": 0.19,
+							"lineHeightPx": 22.265625,
+							"lineHeightPercent": 100,
+							"lineHeightUnit": "INTRINSIC_%"
+						},
+						"characterStyleOverrides": [],
+						"styleOverrideTable": {}
+					}],
+					"absoluteBoundingBox": {
+						"x": -248,
+						"y": -102,
+						"width": 162,
+						"height": 46
+					},
+					"constraints": {
+						"vertical": "TOP",
+						"horizontal": "LEFT"
+					},
+					"clipsContent": true,
+					"background": [{
+						"blendMode": "NORMAL",
+						"type": "SOLID",
+						"color": {
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						}
+					}],
+					"fills": [{
+						"blendMode": "NORMAL",
+						"type": "SOLID",
+						"color": {
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						}
+					}],
+					"strokes": [{
+						"blendMode": "NORMAL",
+						"type": "SOLID",
+						"color": {
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						}
+					}],
+					"cornerRadius": 30,
+					"rectangleCornerRadii": [30, 30, 30, 30],
+					"strokeWeight": 1,
+					"strokeAlign": "INSIDE",
+					"backgroundColor": {
+						"r": 1,
+						"g": 1,
+						"b": 1,
+						"a": 1
+					},
+					"layoutMode": "HORIZONTAL",
+					"itemSpacing": 24,
+					"primaryAxisSizingMode": "FIXED",
+					"paddingLeft": 10,
+					"paddingRight": 10,
+					"paddingTop": 10,
+					"paddingBottom": 10,
+					"exportSettings": [{
+						"suffix": "",
+						"format": "PNG",
+						"constraint": {
+							"type": "SCALE",
+							"value": 1
+						}
+					}],
+					"effects": []
+				}, {
+					"id": "2:34",
+					"name": "Line 1",
+					"type": "LINE",
+					"blendMode": "PASS_THROUGH",
+					"absoluteBoundingBox": {
+						"x": -465,
+						"y": -284,
+						"width": 873,
+						"height": 0
+					},
+					"preserveRatio": true,
+					"constraints": {
+						"vertical": "TOP",
+						"horizontal": "LEFT"
+					},
+					"fills": [],
+					"strokes": [{
+						"blendMode": "NORMAL",
+						"type": "SOLID",
+						"color": {
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						}
+					}],
+					"strokeWeight": 1,
+					"strokeAlign": "CENTER",
+					"effects": []
+				}],
+				"absoluteBoundingBox": {
+					"x": -465,
+					"y": -396,
+					"width": 873,
+					"height": 647
+				},
+				"constraints": {
+					"vertical": "TOP",
+					"horizontal": "LEFT"
+				},
+				"clipsContent": true,
+				"background": [{
+					"blendMode": "NORMAL",
+					"type": "SOLID",
+					"color": {
+						"r": 1,
+						"g": 1,
+						"b": 1,
+						"a": 1
+					}
+				}],
+				"fills": [{
+					"blendMode": "NORMAL",
+					"type": "SOLID",
+					"color": {
+						"r": 1,
+						"g": 1,
+						"b": 1,
+						"a": 1
+					}
+				}],
+				"strokes": [],
+				"strokeWeight": 1,
+				"strokeAlign": "INSIDE",
+				"backgroundColor": {
+					"r": 1,
+					"g": 1,
+					"b": 1,
+					"a": 1
+				},
+				"effects": []
+			}],
+			"backgroundColor": {
+				"r": 0.8980392217636108,
+				"g": 0.8980392217636108,
+				"b": 0.8980392217636108,
+				"a": 1
+			},
+			"prototypeStartNodeID": null,
+			"prototypeDevice": {
+				"type": "NONE",
+				"rotation": "NONE"
+			}
+		}]
+	},
+	"components": {},
+	"schemaVersion": 0,
+	"styles": {},
+	"name": "Untitled",
+	"lastModified": "2021-08-30T12:55:05Z",
+	"thumbnailUrl": "https://s3-alpha-sig.figma.com/thumbnails/c2eBqSdVwkqoB0Lf4dk4aR/default?Expires=1631491200&Signature=XrksrzY197TvYwaG2YX5cJtvr98JX9Q4TLhbRVCNJH7IweAHx0tq7uVsh~NZOmv-V-1ZGJLphy31lF37OcENpInXSzVlAgOBLs4q1QJBDejoxREy223L58mABOj72CCn32lRhm-UUfSobHHxhqW7859XwwiXnJlO085AbtOyLUi7WDaXxCRNhy8E2IO5YZbGzipYblG50jJiAIEhHnbFzQq1ZeR0CbchG9qglW8H9iV4Rs~oFzf~hiRL0ZG8mNLILkW-vAVIrvc491L3-2TK7CnJ9hx6~xsA9XBsCLwkLEen5rnkmErY2B572uFiXJEbYq83OxPcVTy~MnWIUxkSsg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+	"version": "1089454473",
+	"role": "owner"
+}
